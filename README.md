@@ -1,8 +1,9 @@
 # Space-Invader
 
 ## Dependency
-pygame
+    pygame
 
 ## Control
-Arrow keys for Movement
-Spacebar for Fire
+    Arrow keys for Movement
+
+    Spacebar for Fire
